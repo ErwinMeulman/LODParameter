@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>LOD Parameter Application</Name>
+    <Assembly>
+      .\LODParameter.dll
+    </Assembly>
+    <ClientId>f24da5a5-87a6-41aa-9afe-456dbcaee906</ClientId>
+    <FullClassName>LODParameter.LODapp</FullClassName>
+    <VendorId>IKERD Consulting</VendorId>
+    <VendorDescription>IKERD Consulting, apps@ikerd.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

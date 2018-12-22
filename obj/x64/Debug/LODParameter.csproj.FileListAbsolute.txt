@@ -1,0 +1,2 @@
+C:\Users\PowerUser\Downloads\C#\IKERDConsultingLODmanager\LODParameter\obj\x64\Debug\LODParameter.csprojResolveAssemblyReference.cache
+C:\Users\PowerUser\Downloads\C#\IKERDConsultingLODmanager\LODParameter\obj\x64\Debug\LODParameter.csproj.CoreCompileInputs.cache
